@@ -1,6 +1,0 @@
-resources:
-  dashboards:
-    test_dashboard:
-      display_name: 'Test Dashboard'
-      file_path: ../src/test_dashboard.lvdash.json
-      warehouse_id: 890de7c6ee3dc77d
